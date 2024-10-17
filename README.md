@@ -1,3 +1,5 @@
 # Database-Tuning
 Basic of the Automatic Database Tuning
-![Database-tuning](https://github.com/user-attachments/assets/6b9e0a81-7ee1-4f1d-92fa-5cb021769019)
+
+  ![image](https://github.com/user-attachments/assets/b1fda8e9-2b2a-43d1-a1be-52e5b1fd1c1c)
+
